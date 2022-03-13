@@ -27,7 +27,23 @@ p {
 	line-height: 75px;
 }
 
+img {
+	border: 5 px;
+}
 
+.cartes {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20 px;
+	heigth: 100 vh;
+}
+
+.crt {
+	display: block;
+	margin-left: 50 px;
+	margin-right: 50 px;
+}
 button.menu-object:active{
 	font-size: 18px;
 	width: 275px;
