@@ -15,7 +15,11 @@
 }
 
 body{
-	background-color: aqua;
+    background-color : aqua;
+    display: grid; 
+    grid-gap : 1 em;
+    min-height: 60vh;
+
 }
 p {
 	text-align: center;
